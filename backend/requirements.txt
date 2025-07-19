@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pymongo
+requests
+opencv-python
+pyttsx3
+gTTS
+openai
