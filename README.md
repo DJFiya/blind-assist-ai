@@ -57,13 +57,7 @@ Developed in 36 hours at Hack the 6ix 2025.
 
 ### Frontend
 
-1. Use https://v0.dev to generate a React dashboard with Auth0 authentication.
-2. Modify API endpoints to connect to your backend.
-3. Deploy the frontend to Vercel with:
-    ```bash
-    vercel deploy  
-    ```
-4. Users can log in, view scene history, ask questions, and hear answers.
+Admin dashboard for developers - To Be Implemented
 
 This project demonstrates how computer vision and natural language processing can empower users with visual impairments to better navigate and understand their environments in real time.
 
